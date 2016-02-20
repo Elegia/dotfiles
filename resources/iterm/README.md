@@ -1,10 +1,10 @@
-Resources for iTerm 3 beta configuration.
+## Resources for iTerm 3 beta configuration.
 
-Shell: Oh-my-zsh
-Theme: Honukai
-Colors scheme: Honukai
-Font: Fira
-
+Shell: Oh-my-zsh 
+Theme: Honukai 
+Colors scheme: Honukai 
+Font: Fira 
+ 
 ### Installation
 
 * Copy the theme to the ~/.oh-my-zsh/themes/ directory
@@ -25,8 +25,8 @@ Set to vertical
 
 ### Text rendering
 
-* Disable *Draw bold in bold font*
-* Disable *Draw bold in bright colors*
-* Enable *Draw anti-aliased text with thin strokes* on retina.
+* Disable **Draw bold in bold font**
+* Disable **Draw bold in bright colors**
+* Enable **Draw anti-aliased text with thin strokes** on retina.
 
 Configuration taken from: [Honukai](https://github.com/oskarkrawczyk/honukai-iterm-zsh)
